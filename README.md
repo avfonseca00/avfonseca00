@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @avfonseca00
+- 👋 Hi, I’m VillaDev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML5 CSS3 JavaScript and more.
+- 🌱 I’m currently learning Laravel and more.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me abner.villavicencio@estudiantes.uo.edu.cu.
+- 📫 How to reach me avfonseca00@gmail.com.
 
 <!---
 avfonseca00/avfonseca00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
